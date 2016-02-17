@@ -7,10 +7,10 @@ The collection is saved as a [BibTeX](http://www.bibtex.org) file, a format used
 ###To download:
 - Right click on anoles.bib link above and select "Save Link As..." 
 
-- Alternatively you can use `git` from the terminal:
+- Alternatively you can use `git` from the Terminal:
 
-```git clone https://github.com/geneva/anolebiblio.git```
+ ```git clone https://github.com/geneva/anolebiblio.git```
 
-Which will clone the latest repository in your present working directory.
+ Which will clone the latest repository in your present working directory.
 
 
