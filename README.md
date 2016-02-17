@@ -5,9 +5,9 @@ The collection is saved as a [BibTeX](http://www.bibtex.org) file, a format used
 
 ---
 ###To download:
-*Right click on anoles.bib link above and select "Save Link As..." 
+- Right click on anoles.bib link above and select "Save Link As..." 
 
-*Alternatively you can use `git` from the terminal:
+- Alternatively you can use `git` from the terminal:
 
 ```git clone https://github.com/geneva/anolebiblio.git```
 
