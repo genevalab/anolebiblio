@@ -4,7 +4,7 @@ This respository hosts an ever improving bibliography of literature relating to 
 The collection is saved as a [BibTeX](http://www.bibtex.org) file, a format used by the Latex markup language. Free software like [Bibdesk](http://www.bibdesk.org), [JabRef](http://www.jabref.org/), and [BibTool](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/) can be used to open BibTex files directly and most major citation software packages (e.g. Endnote, Papers, Mendely, Zotero) can import BibTeX files.
 
 ---
-###To download:
+### To download:
 - Click on the "Clone or download" link in the upper right hand corner to download as a ZIP file
 
 - Alternatively you can use `git` from the Terminal:
